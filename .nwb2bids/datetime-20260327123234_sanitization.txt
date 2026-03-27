@@ -1,0 +1,1 @@
+{"sanitization_config":{"sub_labels":false,"ses_labels":false},"sanitization_file_path":"/data/dandi/bids-dandisets/work/001248/.nwb2bids/datetime-20260327123234_sanitization.txt","original_participant_id":"subject_id","original_session_id":"BezierCurveExport","sanitized_participant_id":"subject_id","sanitized_session_id":"BezierCurveExport"}
