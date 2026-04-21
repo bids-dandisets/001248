@@ -3,6 +3,4 @@ dataset_description.json
 participants.tsv
 participants.json
 derivatives/dataset_description.json
-sub-subject+id/sub-subject+id_sessions.tsv
-sub-subject+id/sub-subject+id_sessions.json
-sub-subject+id/ses-BezierCurveExport/ecephys/sub-subject+id_ses-BezierCurveExport_ecephys.nwb
+sub-subject+id/ecephys/sub-subject+id_ecephys.nwb
